@@ -1,0 +1,367 @@
+{
+  "id": 1,
+  "name": "Java Quiz",
+  "description": "Multiple Choice Java Quiz",
+  "questions": [
+      {
+          "id": 1010,
+          "name": "Which of the following is a reserved word in java?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1055,
+                  "questionId": 1010,
+                  "name": "java",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1056,
+                  "questionId": 1010,
+                  "name": "run",
+                  "isAnswer": true
+              },
+              {
+                  "id": 1057,
+                  "questionId": 1010,
+                  "name": "this",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1058,
+                  "questionId": 1010,
+                  "name": "None of the above",
+                  "isAnswer": false
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      },
+      {
+          "id": 1011,
+          "name": "What is the correct syntax to declare an array in java?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1055,
+                  "questionId": 1010,
+                  "name": "var []",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1057,
+                  "questionId": 1010,
+                  "name": "int arr[]",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1056,
+                  "questionId": 1010,
+                  "name": "int []",
+                  "isAnswer": true
+              },
+              {
+                  "id": 1058,
+                  "questionId": 1010,
+                  "name": "int x {}",
+                  "isAnswer": false
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      },
+      {
+          "id": 1012,
+          "name": "How do you print the contents of a multidemensional array?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1055,
+                  "questionId": 1010,
+                  "name": "Nested loop",
+                  "isAnswer": true
+              },
+              {
+                  "id": 1057,
+                  "questionId": 1010,
+                  "name": "array.print",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1056,
+                  "questionId": 1010,
+                  "name": "print(array)",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1058,
+                  "questionId": 1010,
+                  "name": "console.out.log(array)",
+                  "isAnswer": false
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      },
+      {
+          "id": 1013,
+          "name": "What is JVM?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1055,
+                  "questionId": 1010,
+                  "name": "Java View Model",
+                  "isAnswer": true
+              },
+              {
+                  "id": 1057,
+                  "questionId": 1010,
+                  "name": "Java Virtual Model",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1056,
+                  "questionId": 1010,
+                  "name": "Java Validation Machine",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1058,
+                  "questionId": 1010,
+                  "name": "Java Virtual Machine",
+                  "isAnswer": false
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      },
+      {
+          "id": 1014,
+          "name": "Which of the following is the correct syntax for printing statements?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1055,
+                  "questionId": 1010,
+                  "name": "print('Hello World');",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1057,
+                  "questionId": 1010,
+                  "name": "cout<<'Hello World';",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1056,
+                  "questionId": 1010,
+                  "name": "console.log('Hello World');",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1058,
+                  "questionId": 1010,
+                  "name": "System.out.print('Hello World');",
+                  "isAnswer": true
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      },
+      {
+          "id": 1015,
+          "name": "Is Java an object oriented programming language?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1055,
+                  "questionId": 1010,
+                  "name": "Partially",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1057,
+                  "questionId": 1010,
+                  "name": "No",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1056,
+                  "questionId": 1010,
+                  "name": "Yes",
+                  "isAnswer": true
+              },
+              {
+                  "id": 1058,
+                  "questionId": 1010,
+                  "name": "None of the above",
+                  "isAnswer": false
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      },
+      {
+          "id": 1016,
+          "name": "What year was Java created?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1055,
+                  "questionId": 1010,
+                  "name": "1984",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1056,
+                  "questionId": 1010,
+                  "name": "1991",
+                  "isAnswer": true
+              },
+              {
+                  "id": 1057,
+                  "questionId": 1010,
+                  "name": "1999",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1058,
+                  "questionId": 1010,
+                  "name": "1998",
+                  "isAnswer": false
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      },
+      {
+          "id": 1017,
+          "name": "Does java garbage collect?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1055,
+                  "questionId": 1010,
+                  "name": "Yes",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1056,
+                  "questionId": 1010,
+                  "name": "No",
+                  "isAnswer": true
+              },
+              {
+                  "id": 1057,
+                  "questionId": 1010,
+                  "name": "Sometimes",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1058,
+                  "questionId": 1010,
+                  "name": "Partially",
+                  "isAnswer": false
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      },
+      {
+          "id": 1018,
+          "name": "Who is java owned by?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1055,
+                  "questionId": 1010,
+                  "name": "Oracle Corporation",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1057,
+                  "questionId": 1010,
+                  "name": "Google",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1056,
+                  "questionId": 1010,
+                  "name": "Facebook",
+                  "isAnswer": true
+              },
+              {
+                  "id": 1058,
+                  "questionId": 1010,
+                  "name": "Amazon",
+                  "isAnswer": false
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      },
+      {
+          "id": 1019,
+          "name": "Can java be used for web dev?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1055,
+                  "questionId": 1010,
+                  "name": "No",
+                  "isAnswer": true
+              },
+              {
+                  "id": 1056,
+                  "questionId": 1010,
+                  "name": "Yes, that what Java Server Pages is for",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1057,
+                  "questionId": 1010,
+                  "name": "Not anymore",
+                  "isAnswer": false
+              },
+              {
+                  "id": 1058,
+                  "questionId": 1010,
+                  "name": "Only when used with javascript",
+                  "isAnswer": false
+              }
+          ],
+          "questionType": {
+              "id": 1,
+              "name": "Multiple Choice",
+              "isActive": true
+          }
+      }
+  ]
+}
